@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class merSorthing {
     public static void main(String[] args) {
 
-        int[] arr ={78, 12, 90};
+        int[] arr ={89, 89, 78, 2, 56, 12, 01, -78, -1, 6};
         int [] and = mergeSorthing(arr);
         System.out.println(Arrays.toString(and));
 

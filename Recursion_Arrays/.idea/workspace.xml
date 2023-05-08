@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cde6fd9b-130e-4fae-a257-9f55b0122ad4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/.idea/MergeSorthin_recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/src/leet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort_recursion/QuickSort/QuickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort_recursion/QuickSort/src/quick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/Recursion_Q.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/src/leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/src/qustion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion_Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion_arrays/src/lc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion_arrays/src/lc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion_arrays/src/ls1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/src/subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/subsequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subset_subsequence_recursion/subsetsubsequence/src/skip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Subset_subsequence_recursion/subsetsubsequence/subsetsubsequence.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/out/production/mergeSorth/merSorthing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/out/production/mergeSorth/merSorthing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/src/merSorthing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/src/merSorthing.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/recursion_arrays/src/linear_searching.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ok0D4bHd4FdvCVf36pB3121OQN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Placement/DSA/MergeSorthin_recursion&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.lc3">
+    <configuration name="lc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc" />
+      <module name="Recursion_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc3" />
+      <module name="Recursion_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ls1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ls1" />
+      <module name="Recursion_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lc3" />
+        <item itemvalue="Application.ls1" />
+        <item itemvalue="Application.lc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cde6fd9b-130e-4fae-a257-9f55b0122ad4" name="Changes" comment="" />
+      <created>1682089149273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682089149273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/recursion_arrays/src/lc.java</url>
+          <line>13</line>
+          <properties class="lc" method="f">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/recursion_arrays/src/lc3.java</url>
+          <line>9</line>
+          <properties class="lc3" method="f">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Recursion_Arrays$lc3.ic" NAME="lc3 Coverage Results" MODIFIED="1683202008503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

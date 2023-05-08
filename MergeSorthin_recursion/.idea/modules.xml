@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MergeSorthin_recursion.iml" filepath="$PROJECT_DIR$/.idea/MergeSorthin_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge/merge.iml" filepath="$PROJECT_DIR$/merge/merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mergeSorth/mergeSorth.iml" filepath="$PROJECT_DIR$/mergeSorth/mergeSorth.iml" />
+    </modules>
+  </component>
+</project>
