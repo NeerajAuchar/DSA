@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cde6fd9b-130e-4fae-a257-9f55b0122ad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/.idea/MergeSorthin_recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/src/leet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuickSort_recursion/QuickSort/QuickSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QuickSort_recursion/QuickSort/src/quick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/Recursion_Q.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/src/leetcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recurion_(questions)/Recursion_Q/src/qustion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion_Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion_arrays/src/lc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion_arrays/src/lc3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion_arrays/src/ls1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/src/subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Subsequence_recursion/subsequence/subsequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Subset_subsequence_recursion/subsetsubsequence/src/skip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Subset_subsequence_recursion/subsetsubsequence/subsetsubsequence.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/out/production/mergeSorth/merSorthing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/out/production/mergeSorth/merSorthing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/src/merSorthing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSorthin_recursion/mergeSorth/src/merSorthing.java" afterDir="false" />
-    </list>
+    <list default="true" id="cde6fd9b-130e-4fae-a257-9f55b0122ad4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

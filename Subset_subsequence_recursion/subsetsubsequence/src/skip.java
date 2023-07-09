@@ -15,5 +15,7 @@ public class skip {
         }else {
             skip(p+ch,up.substring(1));
         }
+
+
     }
 }
