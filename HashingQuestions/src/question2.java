@@ -24,7 +24,7 @@ public class question2 {
                 set.remove(arr2[i]);
 
             }
-            ls.ge
+
 
         }
 
