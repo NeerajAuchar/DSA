@@ -4,6 +4,7 @@ public class que2 {
         Integer num2 =100;
         Integer num3 =500;
         Integer num4 = 500;
+        String str = "neeraj";
 
         if(num1 == num2){
             System.out.println("True");
